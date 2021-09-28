@@ -2,7 +2,7 @@
 """
 Created in August 2021
 
-@author: chirayu
+@author: Chirayu
 """
 
 '''Simulation of Langton's Ant, a type of cellular automata, pygame is used for animation. The rules for the 
@@ -15,7 +15,7 @@ black=(0,0,0)
 red=(255,0,0)
 grid=(500,320)
 frame_per_sec=60
-gen_per_frame=20 #Adjust thi depending on CPU speed
+gen_per_frame=20 #Adjust this depending on CPU speed
 '''0->right, 1->up, 2->left, 3->down'''
 direct={0:[1,0], 1:[0,1], 2:[-1,0], 3:[0,-1]} #Dictionary for direction the ant will movw depending on direction it is facing
 class ant():
