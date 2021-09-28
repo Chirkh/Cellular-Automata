@@ -15,7 +15,7 @@ This is an example of a random frame of the simulation.
 
 This program is a simulation of Langton's Ant, the rules of this game can be found here: https://en.wikipedia.org/wiki/Langton%27s_ant
 
-Here is an example of how the output looks after running on my machine (1.1Ghz Intel pentium processor and 4GB RAM) for around a minute:
+Here is an example of how the output looks after running on my laptop (1.1Ghz Intel pentium processor and 4GB RAM) for around a minute:
 
 ![image](https://user-images.githubusercontent.com/91262171/135098805-5bfa350e-1f16-402a-aadf-9bd96dc29894.png)
 
