@@ -30,8 +30,6 @@ class ant():
         self.face+=3 
         self.face=self.face%4
 
-        
-    
     def turn_anticlockwise(self):
 
         self.face+=1
