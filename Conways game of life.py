@@ -1,11 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 25 12:32:34 2021
+Created in August 2021
 
 @author: chi20
 """
-'''This is a simulation of Conways Game of Life (A cellular automata). The rules for the game can be found 
-on Wikipedia: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life'''
+'''This is a simulation of Conways Game of Life (a cellular automata). The rules for the game can be found 
+on Wikipedia: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+The simulation uses pygame for the animation'''
 import pygame
 import random
 import time
